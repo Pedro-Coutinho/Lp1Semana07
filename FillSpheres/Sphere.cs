@@ -2,7 +2,7 @@ namespace FillSpheres
 {
     public class Sphere
     {
-        public Color color;
+        public readonly Color color;
         private float radius;
         private int bounces;
 

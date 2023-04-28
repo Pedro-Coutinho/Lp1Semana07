@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FillSpheres", "FillSpheres\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterFillSpheres", "BetterFillSpheres\BetterFillSpheres.csproj", "{F08A7E98-4487-4499-8507-DFBDB8CBC254}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerStats", "PlayerStats\PlayerStats.csproj", "{EB465555-5F0C-443C-AC58-CD1FDFBA4248}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{F08A7E98-4487-4499-8507-DFBDB8CBC254}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F08A7E98-4487-4499-8507-DFBDB8CBC254}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F08A7E98-4487-4499-8507-DFBDB8CBC254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB465555-5F0C-443C-AC58-CD1FDFBA4248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB465555-5F0C-443C-AC58-CD1FDFBA4248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB465555-5F0C-443C-AC58-CD1FDFBA4248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB465555-5F0C-443C-AC58-CD1FDFBA4248}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
